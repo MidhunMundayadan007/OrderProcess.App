@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OrderProcessingApp.Main": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
